@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me
 - 🎯 Passionate about building real-world projects   
-- 📱 Exploring **React js** for mobile app development  
+- 📱 Exploring **React js** 
 - 🌼 Love designing clean UI & trying new tech  
 - 📧 Reach me at: **kavyamskavya2@gmail.com**
 
