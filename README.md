@@ -43,7 +43,7 @@
 ---
 
 ### 🌐 Connect With Me
-<a href="https://www.linkedin.com" target="_blank">LinkedIn</a> (Add your link here)
+<a href="https://www.linkedin.com" target="_blank">LinkedIn</a> (https://www.linkedin.com/in/kavya-m-s-096909380?trk=contact-info)
 
 ---
 
