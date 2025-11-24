@@ -3,7 +3,7 @@
 <p align="center">
   🌟 Aspiring Software Developer <br/>
   💻 Interested in Web Development & Mobile Apps <br/>
-  🎓 Diploma in CSE | Learning React, Node.js & Flutter <br/>
+  🎓 Diploma in CSE| Engineering in CSE(AIML) | Learning React, Node.js & Flutter <br/>
 </p>
 
 ---
