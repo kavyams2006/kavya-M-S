@@ -9,9 +9,8 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎯 Passionate about building real-world projects  
-- 🚀 Currently learning **MERN Stack**  
-- 📱 Exploring **Flutter** for mobile app development  
+- 🎯 Passionate about building real-world projects   
+- 📱 Exploring **React js** for mobile app development  
 - 🌼 Love designing clean UI & trying new tech  
 - 📧 Reach me at: **kavyamskavya2@gmail.com**
 
